@@ -117,7 +117,7 @@
                             <div class="ibox-content">
                                 <h1 class="no-margins">{{ $activesets }}</h1>
                                 
- <a href="{{ route('sets.index') }}" title="">Activated Sets</a>                            </div>
+ <a href="{{ route('sets.active') }}" title="">Activated Sets</a>                            </div>
                         </div>
                     </div>
 
